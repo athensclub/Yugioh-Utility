@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" style="-fx-padding: 20px;" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="athensclub.yugiohutil.ui.controller.YdkToPdfController">
+   <center>
+      <VBox prefHeight="200.0" prefWidth="100.0" BorderPane.alignment="CENTER">
+         <children>
+            <AnchorPane minHeight="-Infinity" prefHeight="41.0" prefWidth="560.0">
+               <children>
+                  <Button fx:id="selectSourceButton" layoutX="504.0" layoutY="1.0" mnemonicParsing="false" onAction="#onSelectSourceClicked" text="Select..." AnchorPane.rightAnchor="0.6666666666666288" />
+                  <HBox alignment="CENTER_LEFT" minHeight="-Infinity" prefHeight="29.0" style="fx-font-size: 20;" AnchorPane.leftAnchor="0.0">
+                     <children>
+                        <Label prefHeight="30.0" style="-fx-font-size: 20;" text="Source Deck: " />
+                        <Text fx:id="sourceFile" strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-font-size: 20;" text="Not Selected" />
+                     </children>
+                  </HBox>
+               </children>
+            </AnchorPane>
+            <AnchorPane minHeight="-Infinity" prefHeight="56.0" prefWidth="560.0">
+               <children>
+                  <Button fx:id="selectDestButton" mnemonicParsing="false" onAction="#onSelectDestClicked" text="Select..." AnchorPane.rightAnchor="0.0" />
+                  <HBox alignment="CENTER_LEFT" minHeight="-Infinity" prefHeight="30.0" prefWidth="501.0" style="fx-font-size: 20;" AnchorPane.leftAnchor="0.0">
+                     <children>
+                        <Label prefHeight="30.0" prefWidth="229.0" style="-fx-font-size: 20;" text="Target File:" />
+                        <Text fx:id="destFile" strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-font-size: 20;" text=" Not Selected" wrappingWidth="396.38606905937195" />
+                     </children>
+                  </HBox>
+               </children>
+            </AnchorPane>
+            <HBox alignment="CENTER_LEFT" minHeight="-Infinity" prefHeight="35.0" prefWidth="560.0" spacing="20.0">
+               <children>
+                  <Label style="-fx-font-size: 20;" text="Card Width:" />
+                  <TextField fx:id="cardWidthText" alignment="CENTER_RIGHT" text="5.9">
+                     <font>
+                        <Font size="14.0" />
+                     </font></TextField>
+                  <Label style="-fx-font-size: 20;" text="cm" />
+               </children>
+            </HBox>
+            <HBox alignment="CENTER_LEFT" minHeight="-Infinity" prefHeight="35.0" prefWidth="560.0" spacing="20.0">
+               <children>
+                  <Label style="-fx-font-size: 20;" text="Card Height:" />
+                  <TextField fx:id="cardHeightText" alignment="CENTER_RIGHT" text="8.3">
+                     <font>
+                        <Font size="14.0" />
+                     </font></TextField>
+                  <Label style="-fx-font-size: 20;" text="cm" />
+               </children>
+            </HBox>
+            <HBox alignment="CENTER_RIGHT" prefHeight="100.0" prefWidth="200.0">
+               <children>
+                  <Button fx:id="generatePdfButton" onAction="#onGeneratePdfClicked" mnemonicParsing="false" text="Generate PDF" />
+               </children>
+            </HBox>
+         </children>
+      </VBox>
+   </center>
+</BorderPane>

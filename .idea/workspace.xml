@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="522214ce-0456-4c68-8260-cecd22b1df55" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/10045474.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/10443957.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/12421694.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/12524259.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/14532163.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/14558127.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/1561110.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/18144506.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/23434538.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/24010609.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/24207889.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/25733157.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/25955749.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/26077387.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/27204311.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/2857636.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/30012506.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/30194529.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/32807846.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/33331231.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/3405259.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/34267821.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/35261759.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/37351133.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/38342335.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/4280258.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/45819647.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/46659709.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/50005218.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/50588353.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/51227866.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/51452091.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/52340444.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/54693926.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/56832966.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/58069384.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/581014.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/63166095.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/63288573.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/63288574.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/65741786.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/66399653.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/67169062.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/67616300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/70368879.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/73468603.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/73628505.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/75147529.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/77411244.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/81275020.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/82385847.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/83152482.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/83326048.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/83629030.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/84013237.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/8491308.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/86066372.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/87116928.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/89132148.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/89997728.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/90448279.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/90673288.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/97268402.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/98338152.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/99249638.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/99550630.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfs/test.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/athensclub/yugiohutil/ImageUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/athensclub/yugiohutil/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/athensclub/yugiohutil/PDFUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/athensclub/yugiohutil/YgoprodeckAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/athensclub/yugiohutil/data/CardData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/athensclub/yugiohutil/data/CardImageData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/athensclub/yugiohutil/data/CardsData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/athensclub/yugiohutil/ui/controller/YdkToPdfController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/ydk_to_pdf.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/tasa1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/tasa2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/tasa3.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="module-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DOQPf7ZZUiO78wOf4SuzUnK5ji" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/IdeaProjects/Guidance Form&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Idea Projects\Yugioh-Utility\src\main\resources\fxml" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Yugioh-Utility [run]" type="GradleRunConfiguration" factoryName="Gradle" nameIsGenerated="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="522214ce-0456-4c68-8260-cecd22b1df55" name="Changes" comment="" />
+      <created>1660567641842</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660567641842</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
